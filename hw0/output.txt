@@ -1,0 +1,6 @@
+---
+name:
+   first: Abhinav
+   last: Gupta
+email: abhinavg@nyu.edu
+leaderboard: backpropper
