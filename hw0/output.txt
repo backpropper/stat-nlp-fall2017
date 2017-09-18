@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Daniel
+   last: Rivera Ruiz
+email: drr342@nyu.edu
+leaderboard: dariru
