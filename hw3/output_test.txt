@@ -861,7 +861,7 @@ shares	NNS
 each	DT
 year	NN
 that	IN
-decrease	VB
+decrease	NN
 in	IN
 number	NN
 at	IN
@@ -951,7 +951,7 @@ President	NNP
 Bush	NNP
 on	IN
 Tuesday	NNP
-nominated	VBD
+nominated	VBN
 two	CD
 individuals	NNS
 to	TO
@@ -968,7 +968,7 @@ area	NN
 .	.
 
 Bush	NNP
-nominated	VBD
+nominated	VBN
 Jennifer	NNP
 M.	NNP
 Anderson	NNP
@@ -1379,7 +1379,7 @@ implicated	VBN
 Muslims	NNPS
 ,	,
 and	CC
-exacerbated	VBN
+exacerbated	VBD
 regional	JJ
 tensions	NNS
 which	WDT
@@ -2114,7 +2114,7 @@ looks	VBZ
 like	IN
 it	PRP
 is	VBZ
-rearing	VBG
+rearing	NN
 its	PRP$
 head	NN
 again	RB
@@ -2843,7 +2843,7 @@ terrorists	NNS
 ,	,
 it	PRP
 was	VBD
-feared	VBD
+feared	VBN
 yesterday	NN
 .	.
 
@@ -3469,7 +3469,7 @@ shape	NN
 of	IN
 an	DT
 inverted	VBN
-cross	VB
+cross	VBP
 ,	,
 a	DT
 well	RB
@@ -3824,7 +3824,7 @@ there	EX
 today	NN
 jeff	NNP
 ....	NNP
-thank	VBP
+thank	VB
 god	NNP
 and	CC
 a	DT
@@ -3856,7 +3856,7 @@ will	MD
 ...	:
 
 CRACKDOWN	NNP
-ON	RP
+ON	IN
 POLYGAMY	NNP
 GROUP	NNP
 
@@ -4712,7 +4712,7 @@ marriage	NN
 ,	,
 only	RB
 the	DT
-beating	VBG
+beating	NN
 .	.
 
 So	RB
@@ -4951,7 +4951,7 @@ the	DT
 leaders	NNS
 like	IN
 to	TO
-boast	VB
+boast	NN
 ,	,
 the	DT
 Mujahedeen	NNP
@@ -5025,7 +5025,7 @@ of	IN
 these	DT
 girls	NNS
 were	VBD
-transported	VBD
+transported	VBN
 to	TO
 Jordan	NNP
 and	CC
@@ -6142,7 +6142,7 @@ I	PRP
 guess	VBP
 the	DT
 author	NN
-missed	VBD
+missed	VBN
 this	DT
 little	JJ
 tidbit	NN
@@ -7566,7 +7566,7 @@ bush	NNP
 response	NN
 to	TO
 the	DT
-gathering	VBG
+gathering	NN
 storm	NN
 of	IN
 scandals	NNS
@@ -7713,7 +7713,7 @@ into	IN
 this	DT
 fray	NN
 without	IN
-backup	JJ
+backup	NN
 ,	,
 that	IN
 's	POS
@@ -8043,7 +8043,7 @@ dominant	JJ
 religion	NN
 as	IN
 a	DT
-cloak	VBP
+cloak	NN
 to	TO
 hide	VB
 their	PRP$
@@ -8386,7 +8386,7 @@ have	VBP
 a	DT
 pretext	NN
 to	TO
-ramp	VB
+ramp	NN
 the	DT
 spin	VB
 up	RP
@@ -8665,7 +8665,7 @@ Koerner	NNP
 called	VBN
 '	POS
 A	DT
-Charge	NNP
+Charge	VB
 to	TO
 Keep	VB
 .	.
@@ -8986,7 +8986,7 @@ memoir	NNP
 called	VBN
 "	NNP
 A	DT
-Charge	NNP
+Charge	VB
 to	TO
 Keep	VB
 "	NNP
@@ -9673,7 +9673,7 @@ against	IN
 Iran	NNP
 has	VBZ
 a	DT
-feeling	NN
+feeling	VBG
 of	IN
 Deja	NNP
 vu	NN
@@ -10363,7 +10363,7 @@ But	CC
 Sharon	NNP
 's	POS
 iron	NN
-fist	RB
+fist	NN
 is	VBZ
 simply	RB
 not	RB
@@ -10469,7 +10469,7 @@ this	DT
 crisis	NN
 ,	,
 to	TO
-cease	NN
+cease	VB
 militarily	RB
 unnecessary	JJ
 provocations	NNP
@@ -10936,7 +10936,7 @@ treatment	NN
 from	IN
 Saddam	NNP
 and	CC
-enjoyed	VBD
+enjoyed	VBN
 a	DT
 disproportionate	JJ
 share	NN
@@ -11218,7 +11218,7 @@ with	IN
 guerrillas	NNS
 in	IN
 a	DT
-fight	VB
+fight	NN
 that	IN
 left	VBN
 one	CD
@@ -11970,7 +11970,7 @@ Muqtada	NNP
 '	POS
 A	DT
 radical	JJ
-Shiite	NNP
+Shiite	JJ
 Muslim	NNP
 cleric	NNP
 has	VBZ
@@ -12042,7 +12042,7 @@ of	IN
 the	DT
 militant	JJ
 Lebanese	JJ
-Shiite	JJ
+Shiite	NNP
 group	NN
 Hezbollah	NNP
 .	.
@@ -12434,7 +12434,7 @@ May	NNP
 the	DT
 radical	JJ
 Lebanese	JJ
-Shiite	JJ
+Shiite	NNP
 party	NN
 ,	,
 Hizbullah	NNP
@@ -12557,7 +12557,7 @@ clear	JJ
 that	IN
 he	PRP
 actually	RB
-posed	VBD
+posed	VBN
 a	DT
 danger	NN
 to	TO
@@ -12796,7 +12796,7 @@ Guards	NNPS
 Anti-Israeli	NNP
 and	CC
 pro-Palestinian	NNP
-feeling	NN
+feeling	VBG
 is	VBZ
 strong	JJ
 among	IN
@@ -12886,7 +12886,7 @@ Shiites	NNP
 .	.
 
 These	DT
-Shiite	JJ
+Shiite	NNP
 movements	NNS
 had	VBD
 been	VBN
@@ -13451,7 +13451,7 @@ international	JJ
 affairs	NNS
 pop	NN
 quiz	NN
-posed	VBD
+posed	VBN
 by	IN
 Andy	NNP
 Hiller	NNP
@@ -14774,7 +14774,7 @@ and	CC
 the	DT
 threat	NN
 he	PRP
-posed	VBD
+posed	VBN
 .	.
 
 They	PRP
@@ -15995,7 +15995,7 @@ smart	JJ
 funny	JJ
 young	JJ
 woman	NN
-smack	VBP
+smack	RB
 -	HYPH
 dab	NNP
 in	IN
@@ -16662,7 +16662,7 @@ DC	NNP
 ,	,
 Mr.	NNP
 Bush	NNP
-enjoyed	VBD
+enjoyed	VBN
 his	PRP$
 freedom	NN
 .	.
@@ -17774,7 +17774,7 @@ bombings	NNS
 
 The	DT
 Iraqi	JJ
-Islamic	JJ
+Islamic	NNP
 Party	NNP
 lead	VB
 by	IN
@@ -17856,7 +17856,7 @@ Scholars	NNP
 That	DT
 the	DT
 Iraqi	JJ
-Islamic	NNP
+Islamic	JJ
 Party	NNP
 is	VBZ
 now	RB
@@ -18008,7 +18008,7 @@ emphemeral	NNP
 
 The	DT
 radical	JJ
-Shiite	JJ
+Shiite	NNP
 Sadr	NNP
 movement	NN
 issued	VBN
@@ -18049,7 +18049,7 @@ forces	NNS
 ,	,
 whether	IN
 national	JJ
-guards	VBZ
+guards	NNS
 or	CC
 others	NNS
 ,	,
@@ -18312,7 +18312,7 @@ Fallujah	NNP
 .	.
 
 Guerrillas	NNPS
-threatened	VBD
+threatened	VBN
 to	TO
 assassinate	VB
 Prime	NNP
@@ -18464,7 +18464,7 @@ reports	NNS
 that	IN
 the	DT
 Iraqi	JJ
-Islamic	JJ
+Islamic	NNP
 Party	NNP
 ,	,
 which	WDT
@@ -19532,7 +19532,7 @@ longer	RB
 in	IN
 the	DT
 dominant	JJ
-Shiite	NNP
+Shiite	JJ
 list	NN
 ,	,
 the	DT
@@ -19808,7 +19808,7 @@ future	JJ
 There	EX
 was	VBD
 a	DT
-soothing	VBG
+soothing	JJ
 authoritative	JJ
 UNSCEAR	NNP
 (	(
@@ -19965,7 +19965,7 @@ ACCIDENT	NNP
 :	:
 TEN	NNP
 YEARS	NNS
-ON	RP
+ON	IN
 
 In	IN
 the	DT
@@ -20811,7 +20811,7 @@ successful	JJ
 1.5	CD
 and	CC
 2.0	CD
-releases	NNS
+releases	VBZ
 .	.
 
 I	PRP
@@ -20844,7 +20844,7 @@ in	IN
 January	NNP
 :	:
 
-Welcome	VB
+Welcome	UH
 Darin	NNP
 !	.
 
@@ -21091,7 +21091,7 @@ history	NN
 of	IN
 media	NNS
 as	IN
-conceived	VBN
+conceived	VBD
 by	IN
 Robin	NNP
 Sloan	NNP
